@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: blue;
+
+}
+hr{
+    /* border:none */
+    border: 1px solid red;
+    width: 75%;
+    height: 10px;
+    background-color: black;
+    margin:auto
+}
